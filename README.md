@@ -1,7 +1,7 @@
 
 <p  align="center">
 
-<img  alt="handreacting_logo"  src="./src/media/mainlogo.png"  width="250px"  />
+<img  alt="handreacting_logo"  src="./src/media/logo.png"  width="250px"  />
 
 </p>
 
@@ -10,7 +10,7 @@
 
 Are you tired and fed up of the multitude of written assignments that you have to submit?
 
-### *HandReacting* is the PERFECT solution to all your problems. It converts typed documents into handwritten ones 🖋, saving you a hella lotta time. ⏳
+### *Inscriptify* is the PERFECT solution to all your problems. It converts typed documents into handwritten ones 🖋, saving you a hella lotta time. ⏳
 
   
 
@@ -26,7 +26,7 @@ Are you tired and fed up of the multitude of written assignments that you have t
 </p>
 
 ## About the Project
-HandReacting is an app which allows the user to generate handwritten text in the form of a downloadable image from the input given. It can be used by students to generate their assignments so that they don't have to go through the hassle of writing down everything physically.
+Inscriptify is an app which allows the user to generate handwritten text in the form of a downloadable image from the input given. It can be used by students to generate their assignments so that they don't have to go through the hassle of writing down everything physically.
 
 The project has been made using React.
 
@@ -95,9 +95,9 @@ Open [http://localhost:3000](http://localhost:3000/) with your browser to see th
 <br  ><br  ><br  >
 
 ## Notes
-HandReacting is a project made with React JS. 
+Inscriptify is a project made with React JS. 
 
-And yes, you can also thank me for making your life easier by giving a ⭐ for the HandReacting repository
+And yes, you can also thank me for making your life easier by giving a ⭐ for the Inscriptify repository
 
 
 
