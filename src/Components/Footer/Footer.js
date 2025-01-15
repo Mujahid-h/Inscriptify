@@ -15,7 +15,7 @@ function Footer() {
             <b>Inscriptify</b> is a project made with React JS For any
             suggestions or bug reports, visit
             <a
-              href="https://github.com/Saksham21s/HandWritting"
+              href="https://github.com/Mujahid-h/Inscriptify.git"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -28,7 +28,7 @@ function Footer() {
               </Tooltip>
             </a>
             repo and raise an issue. And yes, you can also thank me for making
-            your life easier by giving a ⭐ for the HandWritting repository.{" "}
+            your life easier by giving a ⭐ for the Inscriptify repository.{" "}
             <br />
             <br />
             Thanks for dropping by! <br />

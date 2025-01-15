@@ -16,7 +16,7 @@ function Header() {
       </div>
       <div className="headerRight">
         <a
-          href="https://github.com/Saksham21s/HandWritting"
+          href="https://github.com/Mujahid-h/Inscriptify.git"
           target="_blank"
           rel="noopener noreferrer"
         >
